@@ -1,2 +1,1 @@
-# IBMWatson
-IBMWatson
+# IBM Data Science Course Repo
